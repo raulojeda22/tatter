@@ -1,0 +1,1 @@
+# Shred tool in Go
